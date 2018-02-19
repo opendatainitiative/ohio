@@ -13,6 +13,11 @@ title: Home
 {% for Name in site.data.opensource-legislation %}
   <tr>
   	<td>{{ Name.Name }}</td>
+  	<td>{{ Name.State }}</td>
+  	<td>{{ Name.Bill-Number }}</td>
+  	<td>{{ Name.Introduced }}</td>
+  	<td>{{ Name.Last-Action }}</td>
+  	<td>{{ Name.Action-Date }}</td>
   	<td><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
   </tr>
 {% endfor %}
