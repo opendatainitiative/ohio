@@ -4,7 +4,21 @@ permalink: /
 title: Home
 ---
 
-## Existing Open Source Policy and Legislation with analysis
+## Existing Open Source Policy and Legislation
+
+<table cellpadding="10">
+{% for name in site.data.opensource-legislation %}
+	<tr>
+		<th>Name</th><th>State</th><th>Bill Number</th><th>Introduced</th><th>Last Action</th><th>Action Date</th><th>Bill Url</th>
+	</tr>
+  <tr>
+  	<td>{{ name.name }}</td>
+  	<td><a href="{{ name.bill-url }}">{{ name.bill-url }}</a></td>
+  </tr>
+{% endfor %}
+</table>
+
+<!--
 <table cellpadding="10">
     {% for post in site.categories.legislation %}
       <tr>
@@ -17,3 +31,4 @@ title: Home
             <td colspan="2"><hr></td>
       </tr>
     {% endfor %}
+    -->

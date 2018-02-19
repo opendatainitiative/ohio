@@ -17,6 +17,7 @@ title: Background
 * Update [current working group](https://opensource.org/working_groups#public)
 * Policy and legislation sources 
   1. [bill track](https://www.billtrack50.com/Account/BillSearch)
+  1. [DoD open source policy](https://www.code.mil/)
   1. [US Federal Government published open data policy](https://project-open-data.cio.gov/policy-memo/)
   1. [What Works]( http://www.opendatapolicies.org)
   1. [State Bills](https://openstates.org/all/bills/?abbr=&search_text=open+source)
