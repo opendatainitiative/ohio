@@ -12,8 +12,8 @@ title: Home
 		<th>Name</th><th>State</th><th>Bill Number</th><th>Introduced</th><th>Last Action</th><th>Action Date</th><th>Bill Url</th>
 	</tr>
   <tr>
-  	<td>{{ name.name }}</td>
-  	<td><a href="{{ name.bill-url }}">{{ name.bill-url }}</a></td>
+  	<td>{{ name.Name }}</td>
+  	<td><a href="{{ name.Bill-Url }}">{{ name.Bill-Url }}</a></td>
   </tr>
 {% endfor %}
 </table>
