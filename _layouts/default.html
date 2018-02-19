@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
     {% include head.html %}
   <body class="page {% if page.title %}{{page.title | downcase}}{%elsif page.path == 'index.html' %}home{%endif%}">
-<!--    {% include navbar.html %}  -->
+    {% include navbar.html %} 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="container">
