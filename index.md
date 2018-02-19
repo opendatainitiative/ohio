@@ -4,7 +4,7 @@ permalink: /
 title: Home
 ---
 
-## Existing Open Source Policy and Legislation
+## Open Source Policy and Legislation
 
 <table cellpadding="10">
 	<tr>
