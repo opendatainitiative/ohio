@@ -7,13 +7,13 @@ title: Home
 ## Existing Open Source Policy and Legislation
 
 <table cellpadding="10">
-{% for name in site.data.opensource-legislation %}
 	<tr>
 		<th>Name</th><th>State</th><th>Bill Number</th><th>Introduced</th><th>Last Action</th><th>Action Date</th><th>Bill Url</th>
 	</tr>
+{% for Name in site.data.opensource-legislation %}
   <tr>
-  	<td>{{ name.Name }}</td>
-  	<td><a href="{{ name.Bill-Url }}">{{ name.Bill-Url }}</a></td>
+  	<td>{{ Name.Name }}</td>
+  	<td><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
   </tr>
 {% endfor %}
 </table>
