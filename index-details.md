@@ -6,7 +6,7 @@ title: Index Details
 
 ## {{ page.title }} Open Source Policy and Legislation
 
-<table cellpadding="10">
+<table cellpadding="10" border="1">
 	<tr>
 		<th>Name</th><th>State</th><th>Bill Number</th><th>Introduced</th><th>Last Action</th><th>Action Date</th><th>Bill Url</th>
 	</tr>
