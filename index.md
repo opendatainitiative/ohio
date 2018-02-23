@@ -4,7 +4,7 @@ permalink: /
 title: Home
 ---
 
-## Open Source Policy and Legislation
+## Summary Open Source Policy and Legislation
 
 <table cellpadding="10">
 	<tr>
@@ -12,13 +12,10 @@ title: Home
 	</tr>
 {% for Name in site.data.opensource-legislation %}
   <tr>
-  	<td>{{ Name.Name }}</td>
-  	<td>{{ Name.State }}</td>
-  	<td>{{ Name.Bill-Number }}</td>
-  	<td>{{ Name.Introduced }}</td>
-  	<td>{{ Name.Last-Action }}</td>
-  	<td>{{ Name.Action-Date }}</td>
-  	<td><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
+  	<td width="25%" align="center">{{ Name.Name }}</td>
+  	<td width="25%" align="center">{{ Name.State }}</td>
+  	<td width="25%" align="center">{{ Name.Action-Date }}</td>
+  	<td width="25%" align="center"><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
   </tr>
 {% endfor %}
 </table>
