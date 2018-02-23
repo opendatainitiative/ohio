@@ -8,7 +8,7 @@ title: Home
 
 <table cellpadding="10">
 	<tr>
-		<th>Name</th><th>State</th><th>Bill Number</th><th>Introduced</th><th>Last Action</th><th>Action Date</th><th>Bill Url</th>
+		<th>Name</th><th>State</th><th>Action Date</th><th>Bill Url</th>
 	</tr>
 {% for Name in site.data.opensource-legislation %}
   <tr>
