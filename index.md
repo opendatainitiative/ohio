@@ -12,10 +12,10 @@ title: Home
 	</tr>
 {% for Name in site.data.opensource-legislation %}
   <tr>
-  	<td width="25%" align="center">{{ Name.Name }}</td>
-  	<td width="25%" align="center">{{ Name.State }}</td>
-  	<td width="25%" align="center">{{ Name.Action-Date }}</td>
-  	<td width="25%" align="center"><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ Name.Name }}</td>
+  	<td class="tablecolumn" align="center">{{ Name.State }}</td>
+  	<td class="tablecolumn" align="center">{{ Name.Action-Date }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center"><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
   </tr>
 {% endfor %}
 </table>
