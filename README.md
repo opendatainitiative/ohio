@@ -1,18 +1,35 @@
-# opendatainitiative.io
+# Project Overview
 
-[Jekyll](https://jekyllrb.com/docs/home/) source code for The Open Data Initiative website.
+
+# Published Open Source Index
+https://sarob.github.io/opensourceindex/
+
+# Project Details
+* [Project Overview](https://sarob.github.io/opensourceindex/background)
+* [Project Issues to be Completed](https://github.com/sarob/opensourceindex/issues/)
+
+# Contributing
+1. Fork it (https://github.com/sarob/opensourceindex/fork)
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
+
+# To Set up Locally
+You can take all the files of this site and run them just on your computer as if it were live online, only it's just on your machine. This is the best way to test your changes before creating a pull request.
 
 ## Requirements
 - Ruby v2.3.3 (installed default with macOS)
 - [Bundler](http://bundler.io/) (binaries available with macOS)
 - [Jekyll](https://jekyllrb.com/docs/installation/) (binaries available with macOS)
+- Git (binaries available with macOS)
 
 ## Installation
 ```
 sudo gem install bundler
 sudo gem install jekyll
-git clone https://github.com/opendatainitiative/opendatainitiative.github.io.git
-cd opendatainitiative.github.io
+git clone https://github.com/sarob/opensourceindex.git
+cd opensourceindex
 bundle install (do not bundle install as root)
 ```
 
@@ -20,3 +37,6 @@ bundle install (do not bundle install as root)
 ```
 bundle exec jekyll serve
 ``` 
+Open http://localhost:4000 in your browser
+
+Don't see what you're looking for? Create an [issue](https://github.com/sarob/opensourceindex/issues/new), we'll do our best to help you out.
