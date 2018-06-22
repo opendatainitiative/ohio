@@ -17,7 +17,7 @@ title: The Open Source Index
 email: seanroberts66@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Open Source Index purpose is to create an index of public policies that support open source
-baseurl: "/opensourceindex" # the subpath of your site, e.g. /blog
+baseurl: "/ohio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
 permalink: /:categories/:year-:month-:day-:title/
