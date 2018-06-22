@@ -1,15 +1,15 @@
 # Project Overview
 
 
-# Published Open Source Index
-https://sarob.github.io/opensourceindex/
+# Open Data Initiative Ohio User Group
+https://opendatainitiative.github.io/ohio
 
 # Project Details
-* [Project Overview](https://sarob.github.io/opensourceindex/background)
-* [Project Issues to be Completed](https://github.com/sarob/opensourceindex/issues/)
+* [Project Overview]((https://opendatainitiative.github.io/ohio/background)
+* [Project Issues to be Completed]((https://opendatainitiative.github.io/ohio/issues/)
 
 # Contributing
-1. Fork it (https://github.com/sarob/opensourceindex/fork)
+1. Fork it (https://opendatainitiative.github.io/ohio/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -41,4 +41,4 @@ Open http://localhost:4000 in your browser
 
 ## License
 The underlying Jekyll source code that used to format and display content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php), the non-code text content displayed by Jekyll is licensed under the [Creative Commons Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/), and code created by the project contributors is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
-Don't see what you're looking for? Create an [issue](https://github.com/sarob/opensourceindex/issues/new), we'll do our best to help you out.
+Don't see what you're looking for? Create an [issue](https://opendatainitiative.github.io/ohio/issues/new), we'll do our best to help you out.
