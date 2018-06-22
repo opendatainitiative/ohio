@@ -18,6 +18,10 @@ From our first meeting, we have identified these five tasks from our last meetin
 <ul>
 <li><a href="https://docs.google.com/document/d/10ege32EMGPdF6TH-B2NGlSXiNO3WPkm_9z7pQcXUKRw/edit?usp=sharing">Meeting minutes</a>
 </li>
+<li><a href="https://www.eventbrite.com/e/september-2018-dataohio-meeting-tickets-46860402726">17 September 2018  Ohio State Library, 10:00am -12:00pm EST</a>
+</li>
+<li><a href="https://www.eventbrite.com/e/august-2018-dataohio-meeting-tickets-46860373639">16 August 2018  Ohio State Library, 10:00am -12:00pm EST</a>
+</li>
 <li><a href="https://www.eventbrite.com/e/july-2018-dataohio-meeting-tickets-46860146961">18 July 2018  Ohio State Library, 10:00am -12:00pm EST</a>
 </li>
 <li><a href="https://www.eventbrite.com/e/july-2018-dataohio-meeting-tickets-46860146961">20 June 2018  Ohio State Library, 10:00am -12:00pm EST</a>
