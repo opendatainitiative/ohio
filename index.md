@@ -4,18 +4,17 @@ permalink: /
 title: Home
 ---
 
-## Summary Open Source Policy and Legislation
+## Summary Ohio Open Data Sources
 
 <table cellpadding="10" border="1">
 	<tr>
-		<th>Name</th><th>State</th><th>Action Date</th><th>Bill Url</th>
+		<th>Organization</th><th>Source-Url</th><th>Description</th>
 	</tr>
-{% for Name in site.data.opensource-legislation %}
+{% for Org in site.data.opendata-sources %}
   <tr>
-  	<td class="tablecolumn largetablecolumn" align="center">{{ Name.Name }}</td>
-  	<td class="tablecolumn" align="center">{{ Name.State }}</td>
-  	<td class="tablecolumn" align="center">{{ Name.Action-Date }}</td>
-  	<td class="tablecolumn largetablecolumn" align="center"><a href="{{ Name.Bill-Url }}">{{ Name.Bill-Url }}</a></td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ Org.Organization }}</td>
+  	<td class="tablecolumn" align="center"><a href="{{ Org.Source-Url }}">{{ Org.Source-Url }}</a></td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ Org.Description }}</td>
   </tr>
 {% endfor %}
 </table>

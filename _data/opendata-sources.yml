@@ -1,0 +1,144 @@
+- Organization: Lucas County Auditor's Office 
+  Source-Url: "http://icare.co.lucas.oh.us/LucasCare/search/commonsearch.aspx?mode=address"
+  Description: "Auditor's Real Estate Information System. "
+  Notes: "No way to get bulk data dump in machine readable format from website. "
+- Organization: Toledo BizView 
+  Source-Url: "http://www.utoledo.edu/centers/urban-affairs/"
+  Description: "Toledo BizView is a convenient desktop application where users can perform secure, interactive queries online to gather and analyze a wealth of targeted geographical data and visualize their findings in downloadable maps, spreadsheets, charts, graphs, or reports. To browse examples of maps made with BizView, visit the Toledo View Map Library. "
+  Notes: "Proprietary. "
+- Organization: CIty of Toledo - Division of Budget 
+  Source-Url: "https://toledo.oh.gov/services/finance/budget/"
+  Description: "Proposed and approved budgets 2014 - 2018 "
+  Notes: "Data locked in PDFs. "
+- Organization: CIty of Toledo - Priority Based Budgeting 
+  Source-Url: "https://toledo.oh.gov/services/finance/priority-based-budgeting/"
+  Description: "Overview city's collaboration with Center for Priority Based Budgeting. "
+  Notes: "- "
+- Organization: Priority Based Budgeting Tool 
+  Source-Url: "http://openpbbdata.net/?user=Toledo&token=%7dF%5CnWEwf$m90295V$%3C%5Cn5"
+  Description: "Priority Based Budgeting Tool. "
+  Notes: "Very limited querying ability. Only PDF download possible. "
+- Organization: CIty of Toledo - Division of Accounts 
+  Source-Url: "https://toledo.oh.gov/services/finance/accounts/"
+  Description: "City’s Comprehensive Annual Financial Report (CAFR) 2007- 2016. "
+  Notes: "Data locked in PDFs. "
+- Organization: US Census Bureau 
+  Source-Url: "https://factfinder.census.gov/bkmk/cf/1.0/en/place/Toledo city, Ohio/ALL"
+  Description: "American FactFinder demographic data for Toledo. "
+  Notes: "APIs available for some information "
+- Organization: Ohio Secretary of State 
+  Source-Url: "https://www.sos.state.oh.us/elections/election-results-and-data/"
+  Description: "Historical election results and turnout statistics. "
+  Notes: "- "
+- Organization: Lucas County 
+  Source-Url: "http://lcapps.co.lucas.oh.us/arcgis/rest/services"
+  Description: "Web APIs used by county staff, in many departments (elections, health, etc.). Powered by Esri's ArcGIS Server software. "
+  Notes: "- "
+- Organization: Lucas County Information Services 
+  Source-Url: "http://co.lucas.oh.us/2730/File-Downloads"
+  Description: "Contains the AREIS data in machine-readable format, along with property sales, digitized building footprints, and Public Safety Assessment (PSA) reports. "
+  Notes: "Requires registration. "
+- Organization: Lucas County Engineer 
+  Source-Url: "http://co.lucas.oh.us/2568/GIS-Map-Gallery"
+  Description: "Web-based maps of floodplains, bridges/culverts, public utilities, etc. "
+  Notes: "No bulk data. "
+- Organization: Lucas County Engineer 
+  Source-Url: "http://co.lucas.oh.us/1316/GIS-Maps"
+  Description: "Bulk data (FTP) for the LCE web maps. "
+  Notes: "This is also found in REST APIs at http://lcapps.co.lucas.oh.us/arcgis/rest/services/Engineer. Not sure which is more up to date? "
+- Organization: City of Toledo GIS 
+  Source-Url: "http://gis.toledo.oh.gov/maps.html"
+  Description: "Collection of interactive maps for block watch, construction projects, council districts, etc. "
+  Notes: "- "
+- Organization: City of Toledo GIS 
+  Source-Url: "https://gis.toledo.oh.gov/arcgis/rest/services"
+  Description: "The Esri REST web services that power the interactive maps and other public and internal processes. A LOT of services, though metadata is limited. "
+  Notes: "- "
+- Organization: Toledo Police Department 
+  Source-Url: "http://72.240.45.198/"
+  Description: "Online Accident Report Database "
+  Notes: "Can search by Date and Street, and get Date and Location and driver info, more information in pdfs "
+- Organization: City of Toledo Dept. of Neighborhoods 
+  Source-Url: "https://toledo.oh.gov/services/neighborhoods/fiscal-monitoring/reports-information/"
+  Description: "Annual Plans, CAPERs with information about CDBG budgets and expenditures "
+  Notes: "PDFs "
+- Organization: Lucas County Management and Budget 
+  Source-Url: "http://www.co.lucas.oh.us/732/Management-and-Budget"
+  Description: "Line Item Budget "
+  Notes: "- "
+- Organization: Toledo Metropolitan Area Council of Governments (TMACOG) 
+  Source-Url: "http://www.tmacog.org/Administration/info_admin.htm"
+  Description: "Links to Budgets, Annual Work Programs, committe rosters and meeting schedules "
+  Notes: "PDFs "
+- Organization: TMACOG 
+  Source-Url: "http://tmacog.org/Transportation/Safety_Data.htm"
+  Description: "Traffic Crash reports and maps "
+  Notes: "PDFs "
+- Organization: Ohio Department of Transportation 
+  Source-Url: "https://gis.dot.state.oh.us/tims/CrashAnalytics/Login"
+  Description: "ODOT has a public portal for viewing crash information, and it appears to have 2015, 2016, and 2017 data. I'm not sure how often it is updated, but the lack of 2018 data tells us something. "
+  Notes: "Data exportable as excel, kml, shapefile, geodatabase "
+- Organization: City of Toledo Building Inspection 
+  Source-Url: "https://toledo.oh.gov/services/building-inspection/"
+  Description: "- "
+  Notes: "- "
+- Organization: City of Toledo Building Inspection 
+  Source-Url: "https://citizenaccess.toledo.oh.gov/citizenaccess/"
+  Description: "The Division of Building Inspection is responsible for issuing and tracking 45 types of permits (approvals) identified in Toledo Municipal Code Part 13, as well as permits and fees for other City Departments, such as Plan Commission, Fire & Rescue, Transportation, Engineering Services and the Department of Public Utilities (water and sewers tap fees). "
+  Notes: "Data exportable as Excel file. "
+- Organization: Ohio government 
+  Source-Url: "http://business.ohio.gov/licensing/"
+  Description: "Ohio Business Licensing and permit information. "
+  Notes: "Can lookup, but no bulk data. Maybe we can do some more digging and see if we can get access to the APIs that power some of the lookups. "
+- Organization: Ohio Secretary of State 
+  Source-Url: "https://www5.sos.state.oh.us/ords/f?p=100:1:::NO:1:P1_TYPE:DETAIL"
+  Description: "Lookup for business "
+  Notes: "Can lookup, but no bulk data. Maybe we can do some more digging and see if we can get access to the APIs that power some of the lookups. "
+- Organization: Ohio EPA 
+  Source-Url: "http://www.epa.ohio.gov/dapc/newpermits/issued"
+  Description: "Contains links to Ohio EPA Active List of Permit by Rule and Electronic Copies of Issued Permit API. "
+  Notes: "- "
+- Organization: Ohio EPA 
+  Source-Url: "http://epawwwextp01.epa.ohio.gov:8080/ords/epaxp/f?p=999:11"
+  Description: "Active List of Permit by Rule. Exportable as PDF or Excel file. "
+  Notes: "- "
+- Organization: Ohio EPA 
+  Source-Url: "http://epawwwextp01.epa.ohio.gov:8080/ords/epaxp/f?p=999:10"
+  Description: "Electronic Copies of Issued Permits. Exportable as PDF or Excel file. "
+  Notes: "- "
+- Organization: SpotCrime/TPD 
+  Source-Url: "https://spotcrime.com/oh/toledo"
+  Description: "Toledo crime data "
+  Notes: "I believe that SpotCrime gets its data from TPD, it may be helpful to see if TPD has an API that we can hit directly. "
+- Organization: Toledo Blade 
+  Source-Url: "http://toledobladedata.com/caspio/FirePolice.asp"
+  Description: "Toledo salaries for police and fire staff "
+  Notes: "- "
+- Organization: Ohio Lobbying Activity Center 
+  Source-Url: "https://www2.jlec-olig.state.oh.us/olac/"
+  Description: "he OLAC is an online system you can use to search and cross-reference information that is reported by registered lobbyists and employers. "
+  Notes: "- "
+- Organization: Toledo Lucas County Health Department 
+  Source-Url: "https://healthspace.com/Clients/Ohio/Toledo-Lucas/web.nsf"
+  Description: "Restaurant inspection information. "
+  Notes: "Not in bulk format, will have to scrape, if there is no bulk data source. "
+- Organization: Ohio Checkbook 
+  Source-Url: "http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook"
+  Description: "State of Ohio spending. "
+  Notes: "- "
+- Organization: Ohio Checkbook Toledo 
+  Source-Url: "https://toledo.ohiocheckbook.com/"
+  Description: "City of Toledo spending. "
+  Notes: "- "
+- Organization: Ohio Checkbook Lucas County 
+  Source-Url: "https://lucascounty.ohiocheckbook.com/"
+  Description: "Lucas County spending. "
+  Notes: "- "
+- Organization: Ohio Checkbook Toledo City Schools 
+  Source-Url: "https://toledoschools.ohiocheckbook.com/"
+  Description: "Toledo schools spending. "
+  Notes: "- "
+- Organization: United Way 
+  Source-Url: "https://www.211oh.org/reports"
+  Description: "Ohio 211 dashboard "
+  Notes: "PDF or image"
