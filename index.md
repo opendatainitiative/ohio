@@ -18,14 +18,21 @@ From our first meeting, we have identified these five tasks from our last meetin
 <ul>
 <li><a href="https://docs.google.com/document/d/10ege32EMGPdF6TH-B2NGlSXiNO3WPkm_9z7pQcXUKRw/edit?usp=sharing">Meeting minutes</a>
 </li>
-<li>20 June 2018  Ohio State Library, 10:00am -12:00pm EST
-https://www.eventbrite.com/e/july-2018-dataohio-meeting-tickets-46860146961
+<li><a href="https://www.eventbrite.com/e/july-2018-dataohio-meeting-tickets-46860146961">18 July 2018  Ohio State Library, 10:00am -12:00pm EST</a>
 </li>
-<li>23 May 2018, Ohio State Library, 1:30-3:30pm EST
-Invite: https://www.eventbrite.com/e/ohio-dataohio-board-meeting-tickets-44963746777#
+<li><a href="https://www.eventbrite.com/e/july-2018-dataohio-meeting-tickets-46860146961">20 June 2018  Ohio State Library, 10:00am -12:00pm EST</a>
+</li>
+<li><a href="https://www.eventbrite.com/e/ohio-dataohio-board-meeting-tickets-44963746777#">23 May 2018, Ohio State Library, 1:30-3:30pm EST</a>
 </li>
 </ul>
 
+## Discussion
+Find all our conversations online and available to be read. Don't be shy, join the mailing list and lets work together.<br />
+
+{% raw %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="560" height="420" src="https://lists.opendatainitiative.io/pipermail/opendatainitiative/"></iframe>
+{% endraw %}
+		
 ## Summary Ohio Open Data Sources
 <table cellpadding="10" border="1">
 	<tr>
