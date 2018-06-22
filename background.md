@@ -4,23 +4,16 @@ permalink: /background
 title: Background
 ---
 
-## This project was started by the OSI Public Policy working group
-## [Project github repository ](https://github.com/sarob/opensourceindex)
-## Open Source Index purpose is to create an index of public policies that support open source
-* Putting the people and resources together
-* Establish a network of policy domain experts and enthusiasts
-* Maintain an inventory of free and open source state and federal public policy and resources that can be used by anyone. Exclude universities for right now.
-  * Open source software technologies
-  * Procurement policies
-  * Adoption/acquisition
-  * Contribution/contributor
-  * IP issues that are unique to government
-* [OSI working group detail](https://wiki.opensource.org/bin/Main/Open+Source+Initiative+Working+Groups/PublicPolicyIP/)
-* [OSI working group description](https://opensource.org/working_groups#public)
-* Policy and legislation sources 
-  1. [bill track](https://www.billtrack50.com/Account/BillSearch)
-  1. [DoD open source policy](https://www.code.mil/)
-  1. [US Federal Government published open data policy](https://project-open-data.cio.gov/policy-memo/)
-  1. [What Works]( http://www.opendatapolicies.org)
-  1. [State Bills](https://openstates.org/all/bills/?abbr=&search_text=open+source)
-  1. [Federal, State, and Municipal open data sources themselves](https://www.loc.gov/law/help/guide.php)
+## DataOhio
+<a href="https://opendatainitiative.github.io/assets/doc/2017-02-01-ohio-ga132-hr3.pdf">DataOhio GA132-HB3 Legislation Text</a>
+
+<a href="https://www.youtube.com/watch?v=oKysyuc4mlk&list=PL5uD7TUkM3o0ojWWWsZVNb2UyDsb8LAIg">Jan 2018 Townhall discussing the legislation</a>
+
+<a href="http://www.ohiohouse.gov/mike-duffey/press/dataohio-reintroduced-to-encourage-public-record-data-online">Article Explaining the legislation</a>
+
+"Last week, on February 1st, 2017, State Representatives Mike Duffey (R-Worthington) and Christina Hagan (R-Alliance) re-introduced DataOhio, transparency legislation that twice passed the Ohio House and which seems to have inspired Governor Kasich to follow suit with government data initiatives in his proposed budget.
+
+DataOhio has been assigned as House Bill 3, indicating that the legislation is a priority proposal.  DataOhio is supported by the Ohio Newspaper Association, the Ohio Auditor of State, the Ohio Municipal League, the State Librarian, several economists, the national Data Coalition and even received a letter of support for the principle of open government data from the Federal Reserve Bank of Cleveland.
+
+House Bill 3, also known as DataOhio, would establish standards for government data public records that would allow “apples to apples” comparisons as well as encourage conversion of difficult-to-find government records into easily accessible and machine-readable formats that can streamed to mobile apps, researchers, new websites and Ohio citizens."
+
